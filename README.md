@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm James Shima
 
-- 🔭 I’m currently working on DSA, PL and Computer Networking   
-- 🌱 I’m currently learning Graphs, DP, Functional Programing 
+- 🔭 I’m a CS + Computer Engineering Student @ Colorado School of Mines  
+- 🌱 I’m currently learning DSA, Functional Programing, Cyber Security and Computer Networks 
 - 👯 I’m looking to collaborate on 5G/Flutter/ML projects!
 - 🐵 Checkout my website! <a href="https://jmshima01.github.io">click here</a>
 
