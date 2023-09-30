@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm James Shima
 
-- 🔭 I’m a CS + Computer Engineering Student @ Colorado School of Mines  
+- 🏫 I’m a CS + Computer Engineering Student @ Colorado School of Mines
+- 📚 B.S. Computer Science, Dec 2023 | M.S. Computer Science, Dec 2024   
 - 🌱 I’m currently learning DSA, Functional Programing, Cyber Security and Computer Networks 
 - 👯 I’m looking to collaborate on 5G/Flutter/ML projects!
 - 🐵 Checkout my website! <a href="https://jmshima01.github.io">click here</a>
