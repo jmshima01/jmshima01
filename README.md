@@ -4,7 +4,7 @@
 - 🔐 Most of my repos are kept private due to `Mines Collaboration Policy`
 - 🌐 Checkout my website (under construction) <a href="https://jamesshima.com">click here</a>
 
-![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jmshima01&theme=dark&include_all_commits=true)
+![James' GitHub stats](https://github-readme-stats.vercel.app/api?username=jmshima01&theme=dark&include_all_commits=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmshima01&hide=css,Assembly,Jupyter+Notebook,Scilab&theme=dark)
 
