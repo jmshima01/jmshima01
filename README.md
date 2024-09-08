@@ -6,6 +6,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmshima01&hide=css,Assembly,Jupyter+Notebook,Scilab&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmshima01&hide=css,CommonLisp,Jupyter+Notebook,Scilab&theme=dark)
 
 
