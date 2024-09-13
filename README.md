@@ -1,6 +1,6 @@
  
 ```sh
-echo "I'm James Shima!"
+cat JAMES_SHIMA.md
 ```
 
 - 👨‍🎓 B.S. Computer Science && M.S. Computer Science @ <a href="https://mines.edu">Colorado School of Mines</a>
