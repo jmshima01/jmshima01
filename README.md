@@ -3,6 +3,7 @@
 echo "Hello there! - Obiwan"
 cat James-Shima.md
 ```
+> Cyber Engineer
 
 > 👨‍🎓 B.S. Computer Science && M.S. Computer Science @ <a href="https://mines.edu">Colorado School of Mines</a>
 
