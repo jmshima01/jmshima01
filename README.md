@@ -8,7 +8,7 @@ cat James-Shima.md
 
 > 🔐 Most of my repos are kept private due to `Mines Collaboration Policy`
 
-> Checkout my website <a href="https://jamesshima.com">jamesshima.com</a> [*]
+> Checkout my website <a href="https://jamesshima.com">jamesshima.com</a>
 
 ```python
 import re; re.compile(r"(<3)?|(</3)+")
