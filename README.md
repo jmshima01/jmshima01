@@ -12,5 +12,5 @@ cat James-Shima.md
 > Checkout my website <a href="https://jamesshima.com">jamesshima.com</a>
 
 ```python
-import re; re.compile(r"(<3)?|(</3)+")
+import re; re.compile("(<3)?|(</3)+")
 ```
